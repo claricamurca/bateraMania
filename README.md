@@ -1,5 +1,7 @@
-## Batera Mania
-Um projeto para brincar com os sons de uma bateria, de forma online e divertida.
+<h1>Batera Mania</h1>
+
+## Descrição
+Um projeto para você brincar e se divertir com os sons de uma bateria, de forma online e gratuita.
 
 ## Tecnologias utilizadas
 
@@ -10,4 +12,5 @@ Um projeto para brincar com os sons de uma bateria, de forma online e divertida.
 ## Link para visualizar projeto
 https://batera-mania.vercel.app/
 
-<p>Feito com 💜 por Clarissa Camurça<p> text align= center;
+<br>
+<p align= "center">Feito com 💜 por Clarissa Camurça</p>
